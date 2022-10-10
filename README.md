@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SinemArthrex
-- 👀 I’m interested in Cloud management, salesforce architecture big data, Automation Engineer 
+- 👀 I’m interested in Cloud management, salesforce architecture, big data, Automation Engineer 
 - 🌱 I’m currently learning Hashicorp products
 - 💞️ I’m looking to collaborate on Devops and QA's
 - 📫 How to reach me ...
